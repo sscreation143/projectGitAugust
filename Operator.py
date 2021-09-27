@@ -30,6 +30,8 @@ for i in b:
     d=li.append(int(i))
 e=sorted(li)[-2]
 print(e)
+print(b)
+print(a)
 
 
 # l=[5,8,2,9,4,10,7]
